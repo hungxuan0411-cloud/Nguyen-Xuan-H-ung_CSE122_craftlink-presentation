@@ -109,4 +109,4 @@ Sau khi xóa, mở lại trang là dữ liệu mẫu được nạp lại như b
 ## Liên kết
 
 - Repository bản gốc: https://github.com/hungxuan0411-cloud/Nguyen-Xuan-Hung_cse122-craftlink
-- Repository bản trình chiếu: `Nguyen-Xuan-Hung_cse122-craftlink-presentation` (tách biệt hoàn toàn với bản gốc)
+- Repository bản trình chiếu: https://github.com/hungxuan0411-cloud/Nguyen-Xuan-H-ung_CSE122_craftlink-presentation (tách biệt hoàn toàn với bản gốc)
